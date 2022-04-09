@@ -1,0 +1,15 @@
+{
+  "name": "discord.js-ders",
+  "version": "1.0.0",
+  "description": "borangkdn yt için hazırlanan discord.js ders projesi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asdfgahsdgfashdlfgashld",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.2"
+  }
+}
